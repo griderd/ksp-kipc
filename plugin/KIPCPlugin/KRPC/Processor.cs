@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 
 using KRPC.Service.Attributes;
+using KRPC;
 using KRPC.Utils;
 using kOS.Module;
 using kOS.Safe.Encapsulation;
